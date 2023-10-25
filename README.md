@@ -2,7 +2,7 @@
 
 
 
-### 📫 INFOS <details> <summary> Click to reveal🔻 </summary>
+### 📫 INFOS<details><summary> Click to reveal🔻 </summary>
    
 |  **My Contacts** |                          |
 |-------------------|--------------------------|
