@@ -1,15 +1,16 @@
 ### 👋 Hi there, Simone here!
 
+### 📫 INFOS
+|  **My Contacts** |                          |
+|-------------------|--------------------------|
+| **WhatsApp**      | +61_400_761_226          |
+| **Email**         | simobara_@_hotmail_._it     |
+| **Note**          | To write each one, with NO underscore/space | 
 
-### 📫 **My Contacts**
-|-------------------|----------------------------------------------------|
-| **WhatsApp**      | +61_400_761_226                                     |
-| **Email**         | simobara_@_hotmail_._it                             |
-| **Note**          | To write each one, with NO underscore/space         |
 
 
 
-### 👤 About Me and What I do 
+### 👤 ABOUT ME AND WHAT I DO
 My name is Simone. I am a professional Frontend Software Engineer.
 
 I possess a profound interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
@@ -21,12 +22,12 @@ development trends,continually honing my professional arsenal.
 Beyond the realm of technology, I harbor a fervent passion for photography. Additionally, I am an avid runner, a pursuit I 
 undertake not only for physical vigor but also to ensure mental resilience and well-being.
 
-### 🔭 I am currently working on
+### 🔭 I AM CURRENTLY WORKING ON
 - I am developing a web platform dedicated to soccer supporters, particularly focusing on Italian Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
 on the latest news, and provides links for real-time match updates.
 
-### 🛠️ Experience 
+### 🛠️ EXPERIENCE
 ** FRONT END React Web Developer **
 - Design and modeling of web pages primarily in ReactJS.
 - Expert in the use of fundamental web technologies such as Html5, Css3, Bootstrap, and JS (ES6+).
@@ -48,7 +49,7 @@ on the latest news, and provides links for real-time match updates.
 - Effective code management through versioning systems like Git/GitHub and familiarity with CI/CD processes.
 - Utilization of performance optimization tools like Lighthouse and Chrome DevTools.
 
-### 💻 Programming Skills
+### 💻 PROGRAMMING SKILLS
 
 |    ➡️   **FRONT END**    |                 |
 |-----------------|-----------------|
@@ -61,7 +62,7 @@ on the latest news, and provides links for real-time match updates.
 | Angular         | ⭐              | 
 
 
-| 📱 **MOBILE**     |                     |
+|   📱   **MOBILE**     |                     |
 |------------------|---------------------|
 | React Native     | ⭐                  |
 
@@ -126,7 +127,7 @@ on the latest news, and provides links for real-time match updates.
 
 
 
-### 🗣   Languages
+### 🗣   LANGUAGES SPOKEN
 
 | Language        | Proficiency     |
 |-----------------|-----------------|
