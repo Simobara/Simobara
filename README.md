@@ -1,7 +1,8 @@
 ### 👋 Hi there, Simone here!
 
-### 📫 INFOS
 <details>
+
+### 📫 INFOS
    <summary> Click to reveal🔻 </summary>
 
 |  **My Contacts** |                          |
