@@ -2,7 +2,7 @@
 
 ### 📫 CONTACTs
 <details>
-   <summary> Show with a click ↩️ </summary>
+   <summary> to Show  - CLICK Here -  ⤵️ </summary>
    
 |  **My Contacts** |                          |
 |-------------------|--------------------------|
@@ -14,7 +14,7 @@
 
 ### 👤 ABOUT ME 
 <details open>
-   <summary> Show with a click ↩️ </summary>
+   <summary> Show with a click ⤵️ </summary>
 
 - I am a professional Frontend Software Engineer.
 
@@ -31,7 +31,7 @@ undertake not only for physical vigor but also to ensure mental resilience and w
 
 ### 🔭 NEXT
 <details>
-   <summary> Show with a click ↩️ </summary>
+   <summary> Show with a click ⤵️ </summary>
 
 -  Web platform dedicated to soccer supporters, particularly focusing on Italian Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
@@ -41,7 +41,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🛠️ EXPERIENCE
 <details>
-   <summary> Show with a click ↩️ </summary>
+   <summary> Show with a click ⤵️ </summary>
 
 ** FRONT END React Web Developer **
 - Design and modeling of web pages primarily in ReactJS.
@@ -68,7 +68,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 💻 PROGRAMMING
 <details>
-   <summary> Show with a click ↩️ </summary>
+   <summary> Show with a click ⤵️ </summary>
 
 |    ➡️   **FRONT END**    |                 |
 |-----------------|-----------------|
@@ -106,7 +106,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🪛  **TOOLS**
 <details>
-   <summary> Show with a click ↩️ </summary>
+   <summary> Show with a click ⤵️ </summary>
 
 | **Database Tools**   |                           |
 |----------------------|---------------------------|
@@ -153,7 +153,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🗣   LANGUAGES
 <details>
-   <summary> Show with a click ↩️ </summary>
+   <summary> Show with a click ⤵️ </summary>
 
 | Language        | Proficiency     |
 |-----------------|-----------------|
