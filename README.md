@@ -1,18 +1,12 @@
 # 👋 Hi there, Simone here!
 
-
 # 📫 My Contacts 
-_________________________________
-# WhatsApp:      + 61 400 761 226
-# Email:  simobara @ hotmail . it
-
+WhatsApp:      + 61 400 761 226
+Email:  simobara @ hotmail . it
 (To write each one, with NO space)
-__________________________________
 
-
-# 👤 About Me and What I do ________________________________________________________________________________________________
-
-# My name is Simone. I am a professional Frontend Software Engineer.
+# 👤 About Me and What I do 
+My name is Simone. I am a professional Frontend Software Engineer.
 
 I possess a profound interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
 (with its extensive ecosystem including Redux, React Hooks, and Context API), NodeJS, MongoDB, and GraphQL. Throughout my
@@ -22,17 +16,13 @@ development trends,continually honing my professional arsenal.
 
 Beyond the realm of technology, I harbor a fervent passion for photography. Additionally, I am an avid runner, a pursuit I 
 undertake not only for physical vigor but also to ensure mental resilience and well-being.
-______________________________________________________________________________________________________________________________
 
-
-# 🔭 Sto attualmente lavorando su...__________________________________________________________________________________________
+# 🔭 I am currently working on...
 I am developing a web platform dedicated to soccer enthusiasts, particularly focusing on Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
 on the latest news, and provides links for live streaming with real-time match updates.
-______________________________________________________________________________________________________________________________
 
-
-# 🛠️ Experience ______________________________________________________________________________________________________________
+# 🛠️ Experience 
 ** FRONT END React Web Developer **
 - Design and modeling of web pages primarily in ReactJS.
 - Expert in the use of fundamental web technologies such as Html5, Css3, Bootstrap, and JS (ES6+).
@@ -53,11 +43,9 @@ ________________________________________________________________________________
 - Experience in using tools like Postman for API testing and Docker for containerization.
 - Effective code management through versioning systems like Git/GitHub and familiarity with CI/CD processes.
 - Utilization of performance optimization tools like Lighthouse and Chrome DevTools.
-______________________________________________________________________________________________________________________________
 
-
-# 💻 Programming Skills_____________________________________________________________________________________________________ 
-➡️___________________
+# 💻 Programming Skills
+➡️
 HTML     ⭐⭐⭐⭐⭐
 CSS/SASS ⭐⭐⭐⭐⭐
 Bootstrp ⭐⭐⭐⭐⭐
@@ -66,20 +54,20 @@ JS/TS	   ⭐⭐⭐⭐⭐
 React    ⭐⭐⭐⭐⭐
 Angular  ⭐
 
-📱_________________
+📱
 ReactNatv⭐
 
-⬅️_________________
+⬅️
 NodeJS	 ⭐⭐⭐⭐
 Java	   ⭐⭐
 Python	 ⭐⭐
 .NET C#	 ⭐
 
-🛢️_________________
+🛢️
 SQL	     ⭐⭐⭐
 MongoDB  ⭐⭐⭐
 
-🪛______________________________________________________________________
+🪛
 # Database Tools:
 - MySQL Workbench: for the design and administration of MySQL databases.
 - MongoDB Compass: graphical interface for MongoDB.
@@ -114,11 +102,10 @@ MongoDB  ⭐⭐⭐
 - Babel: JavaScript transpiler.
 - ESLint: JavaScript linter.
 - Prettier: code formatter.
-______________________________________________________________________________________________________________________________ 
 
 
-# 🗣 Languages	Proficiency___________________________________________________________________________________________________
+# 🗣 Languages	Proficiency
 Italian 🇮🇹	Native
 English 🇦🇺	C2
 Spanish 🇪🇸	B2
-______________________________________________________________________________________________________________________________
+
