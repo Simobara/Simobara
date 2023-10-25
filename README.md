@@ -130,8 +130,8 @@ on the latest news, and provides links for real-time match updates.
 | ESLint                | JavaScript linter         |
 | Prettier              | code formatter            |
 
-
-
+<details>
+    <summary> ### 🗣   LANGUAGES SPOKEN </summary>
 ### 🗣   LANGUAGES SPOKEN
 
 | Language        | Proficiency     |
@@ -140,5 +140,10 @@ on the latest news, and provides links for real-time match updates.
 | 🇦🇺 English     | ⭐⭐⭐⭐⭐      |
 | 🇪🇸 Spanish     | ⭐⭐⭐⭐⭐      |
 | 🇫🇷 French      | ⭐⭐⭐          |
+
+</details>
+
+
+
 
 
