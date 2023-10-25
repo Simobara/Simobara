@@ -43,7 +43,7 @@ on the latest news, and provides links for real-time match updates.
 <details>
    <summary> Click </summary>
 
-**FRONT END React Web Developer**
+**FRONT END - Web Developer ( React )**
 - Design and modeling of web pages primarily in ReactJS.
 - Expert in the use of fundamental web technologies such as Html5, Css3, Bootstrap, and JS (ES6+).
 - Deep knowledge of the React ecosystem, including:
