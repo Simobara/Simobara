@@ -1,11 +1,11 @@
-# 👋 Hi there, Simone here!
+### 👋 Hi there, Simone here!
 
-# 📫 My Contacts 
+### 📫 My Contacts 
 WhatsApp:      + 61 400 761 226
 Email:  simobara @ hotmail . it
 (To write each one, with NO space)
 
-# 👤 About Me and What I do 
+### 👤 About Me and What I do 
 My name is Simone. I am a professional Frontend Software Engineer.
 
 I possess a profound interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
@@ -17,12 +17,12 @@ development trends,continually honing my professional arsenal.
 Beyond the realm of technology, I harbor a fervent passion for photography. Additionally, I am an avid runner, a pursuit I 
 undertake not only for physical vigor but also to ensure mental resilience and well-being.
 
-# 🔭 I am currently working on...
-I am developing a web platform dedicated to soccer enthusiasts, particularly focusing on Serie A, but also providing real-time 
+### 🔭 I am currently working on...
+- I am developing a web platform dedicated to soccer enthusiasts, particularly focusing on Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
 on the latest news, and provides links for live streaming with real-time match updates.
 
-# 🛠️ Experience 
+### 🛠️ Experience 
 ** FRONT END React Web Developer **
 - Design and modeling of web pages primarily in ReactJS.
 - Expert in the use of fundamental web technologies such as Html5, Css3, Bootstrap, and JS (ES6+).
@@ -44,68 +44,82 @@ on the latest news, and provides links for live streaming with real-time match u
 - Effective code management through versioning systems like Git/GitHub and familiarity with CI/CD processes.
 - Utilization of performance optimization tools like Lighthouse and Chrome DevTools.
 
-# 💻 Programming Skills
-➡️
-HTML     ⭐⭐⭐⭐⭐
-CSS/SASS ⭐⭐⭐⭐⭐
-Bootstrp ⭐⭐⭐⭐⭐
-Tailwind ⭐⭐⭐⭐
-JS/TS	   ⭐⭐⭐⭐⭐
-React    ⭐⭐⭐⭐⭐
-Angular  ⭐
+### 💻 Programming Skills
 
-📱
-ReactNatv⭐
+|    ➡️   **FRONT END**              |
+|-----------------|-----------------|
+| HTML            | ⭐⭐⭐⭐⭐     | 
+| CSS/SASS        | ⭐⭐⭐⭐⭐     | 
+| Bootstrap       | ⭐⭐⭐⭐⭐     |  
+| Tailwind        | ⭐⭐⭐⭐       | 
+| JS/TS	          | ⭐⭐⭐⭐⭐     | 
+| React           | ⭐⭐⭐⭐⭐     | 
+| Angular         | ⭐              | 
 
-⬅️
-NodeJS	 ⭐⭐⭐⭐
-Java	   ⭐⭐
-Python	 ⭐⭐
-.NET C#	 ⭐
+|    📱   **MOBILE**                | 
+|-----------------|-----------------|
+| ReactNatv       | ⭐              |
 
-🛢️
-SQL	     ⭐⭐⭐
-MongoDB  ⭐⭐⭐
+|    ⬅️   **BACKEND**               | 
+|-----------------|-----------------|
+| NodeJS          | ⭐⭐⭐⭐        |
+| Java            | ⭐⭐⭐          |
+| Python          | ⭐⭐            |
+| .NET C#         | ⭐              |
 
-🪛
-# Database Tools:
-- MySQL Workbench: for the design and administration of MySQL databases.
-- MongoDB Compass: graphical interface for MongoDB.
-- pgAdmin: for managing PostgreSQL.
-- Microsoft SQL Server Management Studio: for managing SQL Server.
-- SQLite Browser: for managing SQLite databases.
+|    🛢️   **DATABASE**              |
+|-----------------|-----------------|
+| SQL             |	⭐⭐⭐          |
+| MongoDB         | ⭐⭐⭐          |
+| Python	        | ⭐⭐            |
+| .NET C#	        | ⭐              |
 
-# API Tools:
-- Postman: for testing and documenting APIs.
-- Insomnia: another popular tool for API testing.
-- Swagger: for API documentation.
+|    🪛  **TOOLS**                              |
+|-----------------|-----------------------------|
+| **Database Tools**                            |
+| MySQL Workbench | for managing MySQL databases|
+| PgAdmin         | for managing PostgreSQL     |
+| SQL Server      | for managing SQL Server     |
+| SQLite Browser  | for managing SQLite database|
 
-# IDEs & Code Editors:
-- Visual Studio Code: extensible code editor.
-- IntelliJ IDEA: IDE for Java and other languages.
-- Eclipse: multi-language IDE.
-- Atom: open-source code editor.
+|-----------------|-----------------------------|
+| **Api Tools**                                 |
+| Postamn         | for testing APIs            |
+| Insomnia        | for testing APIs            |
+| Swagger         | for API Documentation       |
 
-# Version Control:
-- Git: distributed version control system.
-- GitHub: code hosting platform based on Git.
-- GitLab: alternative to GitHub with integrated CI/CD features.
-- Sourcetree: GUI for Git.
+|-----------------|-----------------------------|
+| **IDEs & Code Editors**                       |
+| VisualStudioCode| extensible code editor      |
+| IntelliJ IDEA   | IDE for Java and other lang |
+| Eclipse         | multi-language IDE          |
+| Atom            | open-source code editor     |
 
-# Containerization & Virtualization:
-- Docker: platform for containerization.
-- Kubernetes: for managing Docker clusters.
-- Vagrant: for creating virtualized development environments.
+|-----------------|-----------------------------|
+| **Version Control**                           |
+| Git             | distribVersionControlSystem |
+| GitHub          | code hosting platform       |
+| GitLab          | with integrated CI/CD feat  |
+| Sourcetree      | GUI for Git                 |
 
-# Other Useful Tools:
-- Webpack: bundler for JavaScript and friends.
-- Babel: JavaScript transpiler.
-- ESLint: JavaScript linter.
-- Prettier: code formatter.
+|-----------------|-----------------------------|
+| **Containerization & Virtualization**         |
+| Docker          | platformForContainerization |
+| Kubernetes      | for managing Docker clusters|
+| Vagrant         | for creating virtual dev env|
+
+|-----------------|-----------------------------|
+| **Other Useful Tools**                        | 
+| Webpack         | bundler for JS & friends    |
+| Babel           | JavaScript transpiler       |
+| ESLint          | JavaScript linter           |
+| Prettier        | code formatter              |
 
 
-# 🗣 Languages	Proficiency
-Italian 🇮🇹	Native
-English 🇦🇺	C2
-Spanish 🇪🇸	B2
+###    🗣   Languages	Proficiency
+|-----------------|-----------------|
+| 🇮🇹 Italian      | ⭐⭐⭐⭐⭐      |
+| 🇦🇺 English      | ⭐⭐⭐⭐⭐      |
+| 🇪🇸 Spanish      | ⭐⭐⭐⭐⭐      |
+| 🇫🇷 French       | ⭐⭐⭐          |
 
