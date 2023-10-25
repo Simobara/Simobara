@@ -3,7 +3,7 @@
 | 📫 **My Contacts** |                          |
 |-------------------|--------------------------|
 | **WhatsApp**      | +61_400_761_226          |
-| **Email**         | simo_bara_@_hotmail_._it     |
+| **Email**         | simobara_@_hotmail_._it     |
 | **Note**          | To write each one, with NO underscore/space |
 
 
