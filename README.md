@@ -3,8 +3,7 @@
 ### 📫 INFOS
 <details open>
    <summary> Click </summary>
- 
-|  **My Contacts** |                          |
+ |  **My Contacts** |                          |
 |-------------------|--------------------------|
 | **WhatsApp**      | +61_400_761_226          |
 | **Email**         | simobara_@_hotmail_._it     |
