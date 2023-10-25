@@ -1,10 +1,9 @@
 ### 👋 Hi there, Simone here!
 
-<details>
 
-### 📫 INFOS
-   <summary> Click to reveal🔻 </summary>
 
+### 📫 INFOS <details> <summary> Click to reveal🔻 </summary>
+   
 |  **My Contacts** |                          |
 |-------------------|--------------------------|
 | **WhatsApp**      | +61_400_761_226          |
