@@ -39,7 +39,7 @@ on the latest news, and provides links for real-time match updates.
 
 </details>
 
-### 🛠️ EXPERIENCE
+### 🛠️ EXPERIENCEs
 <details>
    <summary> Click </summary>
 
@@ -103,7 +103,7 @@ on the latest news, and provides links for real-time match updates.
 </details>
 
 
-### 🪛  TOOLS
+### 🪛  TOOLs
 <details>
    <summary> Click </summary>
 
@@ -150,7 +150,7 @@ on the latest news, and provides links for real-time match updates.
 </details>
 
 
-### 🗣   LANGUAGES
+### 🗣   LANGUAGEs
 <details>
    <summary> Click </summary>
 
