@@ -1,10 +1,12 @@
 ### 👋 Hi there, Simone here!
 
-| 📫 **My Contacts** |                          |
-|-------------------|--------------------------|
-| **WhatsApp**      | +61_400_761_226          |
-| **Email**         | simobara_@_hotmail_._it     |
-| **Note**          | To write each one, with NO underscore/space |
+
+### 📫 **My Contacts**
+|-------------------|----------------------------------------------------|
+| **WhatsApp**      | +61_400_761_226                                     |
+| **Email**         | simobara_@_hotmail_._it                             |
+| **Note**          | To write each one, with NO underscore/space         |
+
 
 
 ### 👤 About Me and What I do 
