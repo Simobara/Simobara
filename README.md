@@ -1,6 +1,6 @@
 ### 👋 Hi there, Simone here!
 
-### 📫 CONTACTs
+### 📫 CONTACTS
 <details>
    <summary> Click </summary>
    
@@ -39,7 +39,7 @@ on the latest news, and provides links for real-time match updates.
 
 </details>
 
-### 🛠️ EXPERIENCEs
+### 🛠️ EXPERIENCES
 <details>
    <summary> Click </summary>
 
@@ -103,7 +103,7 @@ on the latest news, and provides links for real-time match updates.
 </details>
 
 
-### 🪛  TOOLs
+### 🪛  TOOLS
 <details>
    <summary> Click </summary>
 
@@ -150,7 +150,7 @@ on the latest news, and provides links for real-time match updates.
 </details>
 
 
-### 🗣   LANGUAGEs
+### 🗣   LANGUAGES
 <details>
    <summary> Click </summary>
 
