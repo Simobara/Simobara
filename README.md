@@ -3,7 +3,7 @@
 | 📫 **My Contacts** |                          |
 |-------------------|--------------------------|
 | **WhatsApp**      | +61 400 761 226          |
-| **Email**         | simobara@hotmail.it     |
+| **Email**         | simo bara @ hotmail . it     |
 | **Note**          | To write each one, with NO space |
 
 
