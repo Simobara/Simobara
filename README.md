@@ -1,7 +1,7 @@
 ### 👋 Hi there, Simone here!
 
 ### 📫 CONTACTs
-<details open>
+<details>
    <summary> Click </summary>
    
 |  **My Contacts** |                          |
