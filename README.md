@@ -4,7 +4,7 @@
 <details open>
    <summary> Click </summary>
  
-|  **My Contacts** |                          |
++ |  **My Contacts** |                          | +
 |-------------------|--------------------------|
 | **WhatsApp**      | +61_400_761_226          |
 | **Email**         | simobara_@_hotmail_._it     |
@@ -16,7 +16,7 @@
 <details open>
    <summary> Click </summary>
 
-I am a professional Frontend Software Engineer.
+ + I am a professional Frontend Software Engineer. + 
 
 I possess a profound interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
 (with its extensive ecosystem including Redux, React Hooks, and Context API), NodeJS, MongoDB, and GraphQL. Throughout my
@@ -25,7 +25,7 @@ of robust web applications. When I'm not engrossed in coding or designing, I ded
 development trends,continually honing my professional arsenal.
 
 Beyond the realm of technology, I harbor a fervent passion for photography. Additionally, I am an avid runner, a pursuit I 
-undertake not only for physical vigor but also to ensure mental resilience and well-being.
+undertake not only for physical vigor but also to ensure mental resilience and well-being. 
 
 </details>
 
