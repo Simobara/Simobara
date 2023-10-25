@@ -131,7 +131,7 @@ on the latest news, and provides links for real-time match updates.
 | GitLab                    | with integrated CI/CD features     |
 | Sourcetree                | GUI for Git                        |
 
-| **Containerization & Virtualization** |                           |
+| **Containerization** |                           |
 |-----------------|-----------------------------|
 | Docker          | platform for containerization |
 | Kubernetes      | for managing Docker clusters  |
