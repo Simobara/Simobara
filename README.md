@@ -13,7 +13,7 @@
 </details>
 
 ### 👤 ABOUT ME AND WHAT I DO
-My name is Simone. I am a professional Frontend Software Engineer.
+I am a professional Frontend Software Engineer.
 
 I possess a profound interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
 (with its extensive ecosystem including Redux, React Hooks, and Context API), NodeJS, MongoDB, and GraphQL. Throughout my
