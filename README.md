@@ -2,9 +2,9 @@
 
 | 📫 **My Contacts** |                          |
 |-------------------|--------------------------|
-| **WhatsApp**      | +61 400 761 226          |
-| **Email**         | simo bara @ hotmail . it     |
-| **Note**          | To write each one, with NO space |
+| **WhatsApp**      | +61 _400_ 761_ 226          |
+| **Email**         | simo_ bara _@_ hotmail_ ._ it     |
+| **Note**          | To write each one, with NO underscore/space |
 
 
 ### 👤 About Me and What I do 
