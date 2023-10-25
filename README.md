@@ -1,6 +1,6 @@
 ### 👋 Hi there, Simone here!
 
-### 📫 INFOS
+### 📫 CONTACTs
 <details open>
    <summary> Click </summary>
    
@@ -22,7 +22,7 @@
 (with its extensive ecosystem including Redux, React Hooks, and Context API), NodeJS, MongoDB, and GraphQL. Throughout my
 career, I have collaborated with diverse businesses and nascent startups, bolstering their operations through the development
 of robust web applications. When I'm not engrossed in coding or designing, I dedicate time to stay abreast of the latest
-development trends,continually honing my professional arsenal.
+development trends, continually honing my professional arsenal.
 
 - Beyond the realm of technology, I harbor a fervent passion for photography. Additionally, I am an avid runner, a pursuit I 
 undertake not only for physical vigor but also to ensure mental resilience and well-being. 
