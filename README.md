@@ -17,7 +17,7 @@ development trends,continually honing my professional arsenal.
 Beyond the realm of technology, I harbor a fervent passion for photography. Additionally, I am an avid runner, a pursuit I 
 undertake not only for physical vigor but also to ensure mental resilience and well-being.
 
-### 🔭 I am currently working on...
+### 🔭 I am currently working on
 - I am developing a web platform dedicated to soccer enthusiasts, particularly focusing on Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
 on the latest news, and provides links for live streaming with real-time match updates.
@@ -46,7 +46,7 @@ on the latest news, and provides links for live streaming with real-time match u
 
 ### 💻 Programming Skills
 
-|    ➡️   **FRONT END**              |
+|    ➡️   **FRONT END**    |                 |
 |-----------------|-----------------|
 | HTML            | ⭐⭐⭐⭐⭐     | 
 | CSS/SASS        | ⭐⭐⭐⭐⭐     | 
@@ -56,11 +56,12 @@ on the latest news, and provides links for live streaming with real-time match u
 | React           | ⭐⭐⭐⭐⭐     | 
 | Angular         | ⭐              | 
 
-|    📱   **MOBILE**                | 
+
+|    📱   **MOBILE**    |                   | 
 |-----------------|-----------------|
 | ReactNatv       | ⭐              |
 
-|    ⬅️   **BACKEND**               | 
+|    ⬅️   **BACKEND**    |                   | 
 |-----------------|-----------------|
 | NodeJS          | ⭐⭐⭐⭐        |
 | Java            | ⭐⭐⭐          |
@@ -74,52 +75,59 @@ on the latest news, and provides links for live streaming with real-time match u
 | Python	        | ⭐⭐            |
 | .NET C#	        | ⭐              |
 
-|    🪛  **TOOLS**                              |
+### 🪛  **TOOLS**
+
+| **Database Tools**   |                           |
+|----------------------|---------------------------|
+| MySQL Workbench      | for managing MySQL databases |
+| PgAdmin              | for managing PostgreSQL       |
+| SQL Server           | for managing SQL Server       |
+| SQLite Browser       | for managing SQLite database  |
+
+
+| **API Tools**           |                           |
+|-------------------------|---------------------------|
+| Postman                 | for testing APIs          |
+| Insomnia                | for testing APIs          |
+| Swagger                 | for API Documentation     |
+
+
+| **IDEs & Code Editors**  |                           |
+|--------------------------|---------------------------|
+| Visual Studio Code       | extensible code editor    |
+| IntelliJ IDEA            | IDE for Java and other languages |
+| Eclipse                  | multi-language IDE        |
+| Atom                     | open-source code editor   |
+
+| **Version Control**       |                           |
+|---------------------------|---------------------------|
+| Git                       | distributed version control system |
+| GitHub                    | code hosting platform              |
+| GitLab                    | with integrated CI/CD features     |
+| Sourcetree                | GUI for Git                        |
+
+| **Containerization & Virtualization** |                           |
 |-----------------|-----------------------------|
-| **Database Tools**                            |
-| MySQL Workbench | for managing MySQL databases|
-| PgAdmin         | for managing PostgreSQL     |
-| SQL Server      | for managing SQL Server     |
-| SQLite Browser  | for managing SQLite database|
+| Docker          | platform for containerization |
+| Kubernetes      | for managing Docker clusters  |
+| Vagrant         | for creating virtual dev env  |
 
-|-----------------|-----------------------------|
-| **Api Tools**                                 |
-| Postamn         | for testing APIs            |
-| Insomnia        | for testing APIs            |
-| Swagger         | for API Documentation       |
-
-|-----------------|-----------------------------|
-| **IDEs & Code Editors**                       |
-| VisualStudioCode| extensible code editor      |
-| IntelliJ IDEA   | IDE for Java and other lang |
-| Eclipse         | multi-language IDE          |
-| Atom            | open-source code editor     |
-
-|-----------------|-----------------------------|
-| **Version Control**                           |
-| Git             | distribVersionControlSystem |
-| GitHub          | code hosting platform       |
-| GitLab          | with integrated CI/CD feat  |
-| Sourcetree      | GUI for Git                 |
-
-|-----------------|-----------------------------|
-| **Containerization & Virtualization**         |
-| Docker          | platformForContainerization |
-| Kubernetes      | for managing Docker clusters|
-| Vagrant         | for creating virtual dev env|
-
-|-----------------|-----------------------------|
-| **Other Useful Tools**                        | 
-| Webpack         | bundler for JS & friends    |
-| Babel           | JavaScript transpiler       |
-| ESLint          | JavaScript linter           |
-| Prettier        | code formatter              |
+| **Other Useful Tools** |                           |
+|------------------------|---------------------------|
+| Webpack               | bundler for JS & friends  |
+| Babel                 | JavaScript transpiler     |
+| ESLint                | JavaScript linter         |
+| Prettier              | code formatter            |
 
 
-###    🗣   Languages	Proficiency
+
+### 🗣   Languages
+
+| Language        | Proficiency     |
 |-----------------|-----------------|
-| 🇮🇹 Italian      | ⭐⭐⭐⭐⭐      |
-| 🇦🇺 English      | ⭐⭐⭐⭐⭐      |
-| 🇪🇸 Spanish      | ⭐⭐⭐⭐⭐      |
-| 🇫🇷 French       | ⭐⭐⭐          |
+| 🇮🇹 Italian     | ⭐⭐⭐⭐⭐      |
+| 🇦🇺 English     | ⭐⭐⭐⭐⭐      |
+| 🇪🇸 Spanish     | ⭐⭐⭐⭐⭐      |
+| 🇫🇷 French      | ⭐⭐⭐          |
+
 
