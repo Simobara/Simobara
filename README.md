@@ -25,11 +25,11 @@ development trends,continually honing my professional arsenal.
 Beyond the realm of technology, I harbor a fervent passion for photography. Additionally, I am an avid runner, a pursuit I 
 undertake not only for physical vigor but also to ensure mental resilience and well-being.
 
-### 🔭 I AM CURRENTLY WORKING ON
+### 🔭 NEXT
 <details>
    <summary> Click to reveal🔻 </summary>
 
-- I am developing a web platform dedicated to soccer supporters, particularly focusing on Italian Serie A, but also providing real-time 
+-  Web platform dedicated to soccer supporters, particularly focusing on Italian Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
 on the latest news, and provides links for real-time match updates.
 
