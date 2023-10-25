@@ -8,6 +8,11 @@
 | **Note**          | To write each one, with NO underscore/space | 
 
 
+<details>
+  <summary>Click to expand!</summary>
+Questo è il testo nascosto che sarà visibile solo quando clicchi su "Click to expand!".
+
+</details>
 
 
 ### 👤 ABOUT ME AND WHAT I DO
