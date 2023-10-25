@@ -12,7 +12,7 @@
 
 </details>
 
-### 👤 ABOUT ME AND WHAT I DO
+### 👤 ABOUT ME 
 I am a professional Frontend Software Engineer.
 
 I possess a profound interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
@@ -61,7 +61,7 @@ on the latest news, and provides links for real-time match updates.
 
 </details>
 
-### 💻 PROGRAMMING SKILLS
+### 💻 PROGRAMMING
 <details>
    <summary> Click </summary>
 
@@ -146,7 +146,7 @@ on the latest news, and provides links for real-time match updates.
 </details>
 
 
-### 🗣   LANGUAGES SPOKEN
+### 🗣   LANGUAGES
 <details>
    <summary> Click </summary>
 
