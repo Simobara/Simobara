@@ -1,16 +1,14 @@
 ### 👋 Hi there, Simone here!
 
 ### 📫 INFOS
+<details>
+   <summary> Click to reveal🔻 </summary>
+
 |  **My Contacts** |                          |
 |-------------------|--------------------------|
 | **WhatsApp**      | +61_400_761_226          |
 | **Email**         | simobara_@_hotmail_._it     |
 | **Note**          | To write each one, with NO underscore/space | 
-
-
-<details>
-  <summary>Click to expand!</summary>
-Questo è il testo nascosto che sarà visibile solo quando clicchi su "Click to expand!".
 
 </details>
 
@@ -29,17 +27,17 @@ undertake not only for physical vigor but also to ensure mental resilience and w
 
 ### 🔭 I AM CURRENTLY WORKING ON
 <details>
-   <summary> 🔻 </summary>
+   <summary> Click to reveal🔻 </summary>
 
 - I am developing a web platform dedicated to soccer supporters, particularly focusing on Italian Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
 on the latest news, and provides links for real-time match updates.
+
 </details>
 
 ### 🛠️ EXPERIENCE
-
 <details>
-   <summary> 🔻 </summary>
+   <summary> Click to reveal🔻 </summary>
 
 ** FRONT END React Web Developer **
 - Design and modeling of web pages primarily in ReactJS.
@@ -66,7 +64,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 💻 PROGRAMMING SKILLS
 <details>
-   <summary> 🔻 </summary>
+   <summary> Click to reveal🔻 </summary>
 
 |    ➡️   **FRONT END**    |                 |
 |-----------------|-----------------|
@@ -103,9 +101,8 @@ on the latest news, and provides links for real-time match updates.
 
 
 ### 🪛  **TOOLS**
-
 <details>
-   <summary> 🔻 </summary>
+   <summary> Click to reveal🔻 </summary>
 
 | **Database Tools**   |                           |
 |----------------------|---------------------------|
@@ -152,7 +149,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🗣   LANGUAGES SPOKEN
 <details>
-   <summary> 🔻 </summary>
+   <summary> Click to reveal🔻 </summary>
 
 | Language        | Proficiency     |
 |-----------------|-----------------|
