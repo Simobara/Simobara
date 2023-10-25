@@ -1,7 +1,7 @@
 ### 👋 Hi there, Simone here!
 
 ### 📫 INFOS
-<details>
+<details open>
    <summary> Click </summary>
  
 |  **My Contacts** |                          |
@@ -13,6 +13,9 @@
 </details>
 
 ### 👤 ABOUT ME 
+<details open>
+   <summary> Click </summary>
+
 I am a professional Frontend Software Engineer.
 
 I possess a profound interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
@@ -23,6 +26,8 @@ development trends,continually honing my professional arsenal.
 
 Beyond the realm of technology, I harbor a fervent passion for photography. Additionally, I am an avid runner, a pursuit I 
 undertake not only for physical vigor but also to ensure mental resilience and well-being.
+
+</details>
 
 ### 🔭 NEXT
 <details>
