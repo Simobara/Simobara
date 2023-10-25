@@ -1,9 +1,11 @@
 ### 👋 Hi there, Simone here!
 
-### 📫 My Contacts 
-WhatsApp:      + 61 400 761 226
-Email:  simobara @ hotmail . it
-(To write each one, with NO space)
+| 📫 **My Contacts** |                          |
+|-------------------|--------------------------|
+| **WhatsApp**      | +61 400 761 226          |
+| **Email**         | simobara@hotmail.it     |
+| **Note**          | To write each one, with NO space |
+
 
 ### 👤 About Me and What I do 
 My name is Simone. I am a professional Frontend Software Engineer.
@@ -57,9 +59,10 @@ on the latest news, and provides links for real-time match updates.
 | Angular         | ⭐              | 
 
 
-|    📱   **MOBILE**    |                   | 
-|-----------------|-----------------|
-| ReactNatv       | ⭐              |
+| 📱 **MOBILE**     |                     |
+|------------------|---------------------|
+| React Native     | ⭐                  |
+
 
 |    ⬅️   **BACKEND**    |                   | 
 |-----------------|-----------------|
