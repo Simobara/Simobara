@@ -132,7 +132,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🗣   LANGUAGES SPOKEN
 <details>
-   <summary> 🔵 </summary>
+   <summary> 🔵 Expand 🔵  </summary>
   
 | Language        | Proficiency     |
 |-----------------|-----------------|
