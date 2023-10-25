@@ -67,7 +67,7 @@ on the latest news, and provides links for live streaming with real-time match u
 | Python          | ⭐⭐            |
 | .NET C#         | ⭐              |
 
-|    🛢️   **DATABASE**              |
+|    🛢️   **DATABASE**    |                 |
 |-----------------|-----------------|
 | SQL             |	⭐⭐⭐          |
 | MongoDB         | ⭐⭐⭐          |
