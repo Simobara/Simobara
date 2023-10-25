@@ -132,13 +132,15 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🗣   LANGUAGES SPOKEN
 <details>
-   <summary>Click to expand!</summary>
+   <summary> 🔵 </summary>
+  
 | Language        | Proficiency     |
 |-----------------|-----------------|
 | 🇮🇹 Italian     | ⭐⭐⭐⭐⭐      |
 | 🇦🇺 English     | ⭐⭐⭐⭐⭐      |
 | 🇪🇸 Spanish     | ⭐⭐⭐⭐⭐      |
 | 🇫🇷 French      | ⭐⭐⭐          |
+
 </details>
 
 
