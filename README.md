@@ -28,11 +28,19 @@ Beyond the realm of technology, I harbor a fervent passion for photography. Addi
 undertake not only for physical vigor but also to ensure mental resilience and well-being.
 
 ### 🔭 I AM CURRENTLY WORKING ON
+<details>
+   <summary> 🔻 </summary>
+
 - I am developing a web platform dedicated to soccer supporters, particularly focusing on Italian Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
 on the latest news, and provides links for real-time match updates.
+</details>
 
 ### 🛠️ EXPERIENCE
+
+<details>
+   <summary> 🔻 </summary>
+
 ** FRONT END React Web Developer **
 - Design and modeling of web pages primarily in ReactJS.
 - Expert in the use of fundamental web technologies such as Html5, Css3, Bootstrap, and JS (ES6+).
@@ -54,7 +62,11 @@ on the latest news, and provides links for real-time match updates.
 - Effective code management through versioning systems like Git/GitHub and familiarity with CI/CD processes.
 - Utilization of performance optimization tools like Lighthouse and Chrome DevTools.
 
+</details>
+
 ### 💻 PROGRAMMING SKILLS
+<details>
+   <summary> 🔻 </summary>
 
 |    ➡️   **FRONT END**    |                 |
 |-----------------|-----------------|
@@ -79,6 +91,7 @@ on the latest news, and provides links for real-time match updates.
 | Python          | ⭐⭐            |
 | .NET C#         | ⭐              |
 
+
 |    🛢️   **DATABASE**    |                 |
 |-----------------|-----------------|
 | SQL             |	⭐⭐⭐          |
@@ -86,7 +99,13 @@ on the latest news, and provides links for real-time match updates.
 | Python	        | ⭐⭐            |
 | .NET C#	        | ⭐              |
 
+</details>
+
+
 ### 🪛  **TOOLS**
+
+<details>
+   <summary> 🔻 </summary>
 
 | **Database Tools**   |                           |
 |----------------------|---------------------------|
@@ -95,13 +114,11 @@ on the latest news, and provides links for real-time match updates.
 | SQL Server           | for managing SQL Server       |
 | SQLite Browser       | for managing SQLite database  |
 
-
 | **API Tools**           |                           |
 |-------------------------|---------------------------|
 | Postman                 | for testing APIs          |
 | Insomnia                | for testing APIs          |
 | Swagger                 | for API Documentation     |
-
 
 | **IDEs & Code Editors**  |                           |
 |--------------------------|---------------------------|
@@ -130,10 +147,13 @@ on the latest news, and provides links for real-time match updates.
 | ESLint                | JavaScript linter         |
 | Prettier              | code formatter            |
 
+</details>
+
+
 ### 🗣   LANGUAGES SPOKEN
 <details>
-   <summary> 🔵 Expand 🔵  </summary>
-  
+   <summary> 🔻 </summary>
+
 | Language        | Proficiency     |
 |-----------------|-----------------|
 | 🇮🇹 Italian     | ⭐⭐⭐⭐⭐      |
