@@ -2,7 +2,7 @@
 
 ### 📫 INFOS
 <details>
-   <summary> Click to reveal🔻 </summary>
+   <summary> Click </summary>
  
 |  **My Contacts** |                          |
 |-------------------|--------------------------|
@@ -27,7 +27,7 @@ undertake not only for physical vigor but also to ensure mental resilience and w
 
 ### 🔭 NEXT
 <details>
-   <summary> Click to reveal🔻 </summary>
+   <summary> Click </summary>
 
 -  Web platform dedicated to soccer supporters, particularly focusing on Italian Serie A, but also providing real-time 
 updates on other leagues. The platform offers the ability to analyze statistics, discuss matches with fellow fans, stay updated
@@ -37,7 +37,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🛠️ EXPERIENCE
 <details>
-   <summary> Click to reveal🔻 </summary>
+   <summary> Click </summary>
 
 ** FRONT END React Web Developer **
 - Design and modeling of web pages primarily in ReactJS.
@@ -64,7 +64,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 💻 PROGRAMMING SKILLS
 <details>
-   <summary> Click to reveal🔻 </summary>
+   <summary> Click </summary>
 
 |    ➡️   **FRONT END**    |                 |
 |-----------------|-----------------|
@@ -102,7 +102,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🪛  **TOOLS**
 <details>
-   <summary> Click to reveal🔻 </summary>
+   <summary> Click </summary>
 
 | **Database Tools**   |                           |
 |----------------------|---------------------------|
@@ -149,7 +149,7 @@ on the latest news, and provides links for real-time match updates.
 
 ### 🗣   LANGUAGES SPOKEN
 <details>
-   <summary> Click to reveal🔻 </summary>
+   <summary> Click </summary>
 
 | Language        | Proficiency     |
 |-----------------|-----------------|
