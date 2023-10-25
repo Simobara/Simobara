@@ -1,6 +1,6 @@
 ### 👋 Hi there, Simone here!
 
-### 📫 Contacts
+### 📫 CONTACTs
 <details>
    <summary> Click </summary>
    
@@ -12,7 +12,7 @@
 
 </details>
 
-### 👤 About Me 
+### 👤 ABOUT ME 
 <details >
    <summary> Click </summary>
 
@@ -29,7 +29,7 @@ undertake not only for physical vigor but also to ensure mental resilience and w
 
 </details>
 
-### 🔭 Next
+### 🔭 NEXT
 <details>
    <summary> Click </summary>
 
@@ -39,7 +39,7 @@ on the latest news, and provides links for real-time match updates.
 
 </details>
 
-### 🛠️ Experience
+### 🛠️ EXPERIENCE
 <details>
    <summary> Click </summary>
 
@@ -66,7 +66,7 @@ on the latest news, and provides links for real-time match updates.
 
 </details>
 
-### 💻 Programming
+### 💻 PROGRAMMING
 <details>
    <summary> Click </summary>
 
@@ -104,7 +104,7 @@ on the latest news, and provides links for real-time match updates.
 </details>
 
 
-### 🪛  Tools
+### 🪛  TOOLS
 <details>
    <summary> Click </summary>
 
@@ -151,7 +151,7 @@ on the latest news, and provides links for real-time match updates.
 </details>
 
 
-### 🗣   Languages
+### 🗣   LANGUAGES
 <details>
    <summary> Click </summary>
 
