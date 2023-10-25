@@ -99,7 +99,7 @@ on the latest news, and provides links for real-time match updates.
 | SQL             |	⭐⭐⭐          |
 | MongoDB         | ⭐⭐⭐          |
 | Python	        | ⭐⭐            |
-| .NET C#	        | ⭐              |
+
 
 </details>
 
