@@ -1,6 +1,6 @@
 ### 👋 Hi there, Simone here!
 
-### 📫 INFOS 
+### 📫 INFOS
 <details>
    <summary> Click to reveal🔻 </summary>
  
