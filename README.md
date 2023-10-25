@@ -117,7 +117,7 @@ on the latest news, and provides links for real-time match updates.
 | Insomnia                | for testing APIs          |
 | Swagger                 | for API Documentation     |
 
-| **IDEs & Code Editors**  |                           |
+| **IDEs & Editors**  |                           |
 |--------------------------|---------------------------|
 | Visual Studio Code       | extensible code editor    |
 | IntelliJ IDEA            | IDE for Java and other languages |
