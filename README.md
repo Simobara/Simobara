@@ -78,25 +78,25 @@ on the latest news, and provides links for real-time match updates.
 | Tailwind        | ⭐⭐⭐⭐       | 
 | JS/TS	          | ⭐⭐⭐⭐⭐     | 
 | React           | ⭐⭐⭐⭐⭐     | 
-| Angular         | ⭐              | 
+| Angular         | ⭐⭐⭐          | 
 
 
 |   📱   **MOBILE**     |                     |
 |------------------|---------------------|
-| React Native     | ⭐                  |
+| React Native     | ⭐⭐                  |
 
 
 |    ⬅️   **BACKEND**    |                   | 
 |-----------------|-----------------|
 | NodeJS          | ⭐⭐⭐⭐        |
 | Java            | ⭐⭐⭐          |
-| Python          | ⭐⭐            |
+| Python          | ⭐⭐⭐          |
 | .NET C#         | ⭐              |
 
 
 |    🛢️   **DATABASE**    |                 |
 |-----------------|-----------------|
-| SQL             |	⭐⭐⭐          |
+| SQL             | ⭐⭐⭐          |
 | MongoDB         | ⭐⭐⭐          |
 
 
