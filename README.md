@@ -74,8 +74,8 @@ on the latest news, and provides links for real-time match updates.
 |-----------------|-----------------|
 | HTML            | ⭐⭐⭐⭐⭐     | 
 | CSS/SASS        | ⭐⭐⭐⭐⭐     | 
-| Bootstrap       | ⭐⭐⭐⭐⭐     |  
-| Tailwind        | ⭐⭐⭐⭐       | 
+| Bootstrap       | ⭐⭐⭐⭐     |  
+| Tailwind        | ⭐⭐⭐⭐⭐       | 
 | JS/TS	          | ⭐⭐⭐⭐⭐     | 
 | React           | ⭐⭐⭐⭐⭐     | 
 | Angular         | ⭐⭐⭐          | 
