@@ -18,9 +18,9 @@
 
 - I am a professional Frontend Software Engineer.
 
-- I possess a profound interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
+- I possess a deep interest and am diligently refining my expertise in pivotal technologies such as Typescript, ReactJS 
 (with its extensive ecosystem including Redux, React Hooks, and Context API), NodeJS, MongoDB, and GraphQL. Throughout my
-career, I have collaborated with diverse businesses and nascent startups, bolstering their operations through the development
+career, I have collaborated with diverse businesses and growing startups, bolstering their operations through the development
 of robust web applications. When I'm not engrossed in coding or designing, I dedicate time to stay abreast of the latest
 development trends, continually honing my professional arsenal.
 
