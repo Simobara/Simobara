@@ -6,7 +6,7 @@
    
 |  **My Contacts** |                          |
 |-------------------|--------------------------|
-| **WhatsApp**      | +61_400_761_226          |
+| **WhatsApp**      | +39_334_23_25_244          |
 | **Email**         | simobara_@_hotmail_._it     |
 | **Note**          | To write each one, with NO underscore/space | 
 
