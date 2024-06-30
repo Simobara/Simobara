@@ -84,6 +84,7 @@ on the latest news, and provides links for real-time match updates.
 |   📱   **MOBILE**     |                     |
 |------------------|---------------------|
 | React Native     | ⭐⭐                  |
+| Flutter          | ⭐⭐⭐⭐              |
 
 
 |    ⬅️   **BACKEND**    |                   | 
