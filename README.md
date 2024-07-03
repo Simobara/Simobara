@@ -165,6 +165,8 @@ on the latest news, and provides links for real-time match updates.
 </details>
 
 
+![Simobara's GitHub stats](https://github-readme-stats.vercel.app/api?username=simobara&show_icons=true&theme=transparent)
+
 
 
 
