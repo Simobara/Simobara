@@ -1,3 +1,4 @@
+<a name="top"></a>
 ### 👋 Hi there, Simone here!
 
 ### 📫 CONTACTS
@@ -164,9 +165,8 @@ on the latest news, and provides links for real-time match updates.
 
 </details>
 
+[//]: # (Simobara's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=simobara&show_icons=true&theme=transparent&#41;)
 
-![Simobara's GitHub stats](https://github-readme-stats.vercel.app/api?username=simobara&show_icons=true&theme=transparent)
-
-
+[⤴️ top](#top)
 
 
