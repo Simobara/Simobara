@@ -84,8 +84,8 @@ on the latest news, and provides links for real-time match updates.
 
 |   📱   **MOBILE**     |                     |
 |------------------|---------------------|
-| React Native     | ⭐⭐                  |
-| Flutter          | ⭐⭐⭐⭐              |
+| React Native     | ⭐⭐⭐⭐                  |
+| Flutter          | ⭐⭐⭐              |
 
 
 |    ⬅️   **BACKEND**    |                   | 
@@ -99,7 +99,7 @@ on the latest news, and provides links for real-time match updates.
 |    🛢️   **DATABASE**    |                 |
 |-----------------|-----------------|
 | SQL             | ⭐⭐⭐          |
-| MongoDB         | ⭐⭐⭐          |
+| MongoDB         | ⭐⭐⭐⭐         |
 
 
 </details>
